@@ -11,8 +11,8 @@ app.use(express.json()) // for allowing entries by user in  JSON format
 
 // Avaialble Routes
 app.use('/api/auth/', require('./routes/auth'))
-app.use('/api/news', require('./Routes/news'))
-app.use('/api/census', require('./Routes/census'))
+app.use('/api/news', require('./routes/news'))
+app.use('/api/census', require('./routes/census'))
 
 app.listen(port, () => {
   console.log(`Narmadiya Backend listening on port ${port}`)
