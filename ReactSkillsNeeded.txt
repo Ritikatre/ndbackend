@@ -1,0 +1,20 @@
+Specs / Job Description :
+Technical – Must Have Skills
+
+• Front-end languages and libraries (e.g. HTML/ CSS, JavaScript/ES6 or ES7, XML, )
+• Min 3 years exp in ReactJS including React.js workflows (such as Flux or Redux
+• Strong UI/UX design skills & Responsive design
+• Experience with REST API's
+• Experience on working on Azure platform
+
+Technical – Nice to Have Skills
+
+• Version Control
+• Website Testing
+• Debugging and Performance testing
+• CI/CD Pipeline
+
+
+HTML, HTML5 - CSS, CSS3 Javascript Typescript ES6 ES7, ES8, ES9 React States and Props JSX, VDOM Events, Maps, Keys, HOC Component Communication React Routing Forms & Form Validation Hooks concepts - useState,useEffect,useContext,useCallback,useMemo,useRef
+
+useReducer, React.memo, custom Hooks Lazy loading, Code splitting, Error Boundaries API Call - Axios/Ajax/Fetch Lifecycle methods Middleware - Thunk / Saga or custom middleware Unit Testing- Jest/Jesmine, Mocha , Chai Flux/ Redux/ Mobix Build Tool - Webpack,Gulp/Grunt Version control tool - Git/SVN or any other tool Ability to develop a complete Responsive web design based React App with support for all major browsers Ability to conceptualize and write reusable components with Best Practices Ability to review the React code and optimize the coding strategy used for the development Implementing security guidelines while coding (X-site scipting.) Implementing React based Performance Optimization techniques Ability to integrate with code quality tools, APM, analytics etc Knowledge to perform CI/CD based development
