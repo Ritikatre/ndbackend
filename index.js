@@ -17,4 +17,4 @@ app.use('/api/census', require('./Routes/census'))
 app.listen(port, () => {
   console.log(`Narmadiya Backend listening on port ${port}`)
 })
-
+// "serve": "nodemon server.js"
